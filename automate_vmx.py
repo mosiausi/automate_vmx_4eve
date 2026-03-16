@@ -4,7 +4,7 @@ Credits:
 - Original project and ownership: Moshiko Nayman
 
 Version:
-- 1.1.0
+- 26.2
 """
 
 import argparse
@@ -16,7 +16,7 @@ import tarfile
 import tempfile
 from pathlib import Path
 
-__version__ = "1.1.0"
+__version__ = "26.2"
 
 
 def parse_args() -> argparse.Namespace:
